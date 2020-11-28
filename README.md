@@ -1,4 +1,4 @@
-# Awair Data to Pandas DataFrame
+# Awair Data to Pandas DataFrame [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/aglove2189/awair/app.py)
 
 ```python
 >>> from awair import Awair
